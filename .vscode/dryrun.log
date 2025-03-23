@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/user/Desktop/�@�~/����ɦV�{���]�p�@�~/HW6'
+g++ -g -o a.out main.cpp Player.cpp Card.cpp 
+make.exe: Leaving directory 'c:/Users/user/Desktop/�@�~/����ɦV�{���]�p�@�~/HW6'
+ 
