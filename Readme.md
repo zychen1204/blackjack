@@ -49,6 +49,13 @@ After everyone has confirmed their bets, the initial cards are printed. The firs
 -----------------------------------------
 Then it will display:
 
+- **D:diamond**
+- **S:spade**
+- **C:club**
+- **H:heart**
+
+
+
 - **Bob's current hand: [??] [QD]**  
 - **Mike's current hand: [??] [10H]**  
 - **Rob's current hand: [??] [5C]**  
