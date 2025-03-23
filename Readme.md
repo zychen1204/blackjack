@@ -44,16 +44,14 @@ As for the computers, their betting is determined by the rules:
 
 ## 5. Initial Cards:
 After everyone has confirmed their bets, the initial cards are printed. The first card is hidden ([??]), and the second is visible (where JQK are displayed with their suit).
-
-**The initial starting cards are:**
------------------------------------------
-Then it will display:
-
 - **D:diamond**
 - **S:spade**
 - **C:club**
 - **H:heart**
 
+**The initial starting cards are:**
+-----------------------------------------
+Then it will display:
 
 
 - **Bob's current hand: [??] [QD]**  
